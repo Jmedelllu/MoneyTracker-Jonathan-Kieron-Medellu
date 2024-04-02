@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     color: '#020202',
   },
+
   input: {
     borderWidth: 1,
     borderColor: '#020202',
